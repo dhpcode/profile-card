@@ -83,3 +83,24 @@ select:-webkit-autofill:focus {
 .main-content {
 	flex-grow: 1;
 }
+
+.card {
+}
+.card-top {
+}
+.card-bottom {
+}
+.card-bottom-hero {
+}
+.card-bottom-info {
+}
+.card-bottom-user {
+}
+.card-bottom-user-city {
+}
+.divider {
+}
+.card-bottom-statistics {
+}
+.statistic-numbers {
+}
