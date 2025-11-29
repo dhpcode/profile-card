@@ -24,7 +24,7 @@ body {
 	background-image: url("../images/bg-pattern-top.svg"),
 		url("../images/bg-pattern-bottom.svg");
 	background-repeat: no-repeat, no-repeat;
-	background-position: bottom left, top right;
+	background-position: -10% 700%, 110% -700%;
 }
 
 img {
